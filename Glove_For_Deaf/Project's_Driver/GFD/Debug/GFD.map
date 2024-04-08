@@ -1,0 +1,585 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+                              HALL/LCD/LCD_program.o (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              HALL/GFD/GFD_program.o (__umulhisi3)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .text          0x00000000        0x0 APP/main.o
+ .data          0x00000000        0x0 APP/main.o
+ .bss           0x00000000        0x0 APP/main.o
+ .text          0x00000000        0x0 HALL/GFD/GFD_program.o
+ .data          0x00000000        0x0 HALL/GFD/GFD_program.o
+ .bss           0x00000000        0x0 HALL/GFD/GFD_program.o
+ .text          0x00000000        0x0 HALL/LCD/LCD_program.o
+ .data          0x00000000        0x0 HALL/LCD/LCD_program.o
+ .bss           0x00000000        0x0 HALL/LCD/LCD_program.o
+ .text.LCD_writeNumber
+                0x00000000       0xb8 HALL/LCD/LCD_program.o
+ .text          0x00000000        0x0 MCAL/ADC/ADC_program.o
+ .data          0x00000000        0x0 MCAL/ADC/ADC_program.o
+ .bss           0x00000000        0x0 MCAL/ADC/ADC_program.o
+ .text          0x00000000        0x0 MCAL/DIO/DIO_program.o
+ .data          0x00000000        0x0 MCAL/DIO/DIO_program.o
+ .bss           0x00000000        0x0 MCAL/DIO/DIO_program.o
+ .text.DIO_getPinValue
+                0x00000000       0xa4 MCAL/DIO/DIO_program.o
+ .text.DIO_togglePinValue
+                0x00000000       0x70 MCAL/DIO/DIO_program.o
+ .text.DIO_setPortDirection
+                0x00000000       0x54 MCAL/DIO/DIO_program.o
+ .text.DIO_setPortValue
+                0x00000000       0x24 MCAL/DIO/DIO_program.o
+ .text.DIO_getPortValue
+                0x00000000       0x3a MCAL/DIO/DIO_program.o
+ .text.DIO_togglePortValue
+                0x00000000       0x34 MCAL/DIO/DIO_program.o
+ .text          0x00000000        0x0 MCAL/EEPROM/EEPROM_program.o
+ .data          0x00000000        0x0 MCAL/EEPROM/EEPROM_program.o
+ .bss           0x00000000        0x0 MCAL/EEPROM/EEPROM_program.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800060         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000002         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+LOAD APP/main.o
+LOAD HALL/GFD/GFD_program.o
+LOAD HALL/LCD/LCD_program.o
+LOAD MCAL/ADC/ADC_program.o
+LOAD MCAL/DIO/DIO_program.o
+LOAD MCAL/EEPROM/EEPROM_program.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5\libatmega32.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0xee6
+ *(.vectors)
+ .vectors       0x00000000       0x54 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000060        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000068        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+                0x00000068                __vector_1
+                0x00000068                __vector_12
+                0x00000068                __bad_interrupt
+                0x00000068                __vector_6
+                0x00000068                __vector_3
+                0x00000068                __vector_11
+                0x00000068                __vector_13
+                0x00000068                __vector_17
+                0x00000068                __vector_19
+                0x00000068                __vector_7
+                0x00000068                __vector_5
+                0x00000068                __vector_4
+                0x00000068                __vector_9
+                0x00000068                __vector_2
+                0x00000068                __vector_15
+                0x00000068                __vector_8
+                0x00000068                __vector_14
+                0x00000068                __vector_10
+                0x00000068                __vector_16
+                0x00000068                __vector_18
+                0x00000068                __vector_20
+                0x0000006c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.main     0x0000006c        0xa APP/main.o
+                0x0000006c                main
+ .text.savingSentences
+                0x00000076      0x40a HALL/GFD/GFD_program.o
+                0x00000076                savingSentences
+ .text.GDF_PinDirectionInit
+                0x00000480       0x7a HALL/GFD/GFD_program.o
+                0x00000480                GDF_PinDirectionInit
+ .text.GDF_MainCode
+                0x000004fa      0x4b0 HALL/GFD/GFD_program.o
+                0x000004fa                GDF_MainCode
+ .text.PRIVATE_WriteHalfPort
+                0x000009aa       0x3e HALL/LCD/LCD_program.o
+ .text.LCD_sendCmnd
+                0x000009e8       0x6c HALL/LCD/LCD_program.o
+                0x000009e8                LCD_sendCmnd
+ .text.LCD_init
+                0x00000a54       0x7e HALL/LCD/LCD_program.o
+                0x00000a54                LCD_init
+ .text.LCD_sendChar
+                0x00000ad2       0x6c HALL/LCD/LCD_program.o
+                0x00000ad2                LCD_sendChar
+ .text.LCD_goToSpecificPosition
+                0x00000b3e       0x24 HALL/LCD/LCD_program.o
+                0x00000b3e                LCD_goToSpecificPosition
+ .text.LCD_display
+                0x00000b62       0xde HALL/LCD/LCD_program.o
+                0x00000b62                LCD_display
+ .text.LCD_clear
+                0x00000c40       0x1a HALL/LCD/LCD_program.o
+                0x00000c40                LCD_clear
+ .text.ADC_init
+                0x00000c5a       0x32 MCAL/ADC/ADC_program.o
+                0x00000c5a                ADC_init
+ .text.ADC_getDigitalValue
+                0x00000c8c       0x32 MCAL/ADC/ADC_program.o
+                0x00000c8c                ADC_getDigitalValue
+ .text.DIO_setPinDirection
+                0x00000cbe       0xec MCAL/DIO/DIO_program.o
+                0x00000cbe                DIO_setPinDirection
+ .text.DIO_setPinValue
+                0x00000daa       0xec MCAL/DIO/DIO_program.o
+                0x00000daa                DIO_setPinValue
+ .text.EEPROM_Write_Byte
+                0x00000e96       0x1a MCAL/EEPROM/EEPROM_program.o
+                0x00000e96                EEPROM_Write_Byte
+ .text.EEPROM_Read_Byte
+                0x00000eb0       0x14 MCAL/EEPROM/EEPROM_program.o
+                0x00000eb0                EEPROM_Read_Byte
+ .text.libgcc.mul
+                0x00000ec4       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x00000ec4                __umulhisi3
+                0x00000ee2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000ee2        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00000ee2                _exit
+                0x00000ee2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000ee2        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000ee6                _etext = .
+
+.data           0x00800060        0x0 load address 0x00000ee6
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x00800060                . = ALIGN (0x2)
+                0x00800060                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00800060        0x0
+                [!provide]                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+                [!provide]                PROVIDE (__bss_end, .)
+                0x00000ee6                __data_load_start = LOADADDR (.data)
+                0x00000ee6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800060        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800060                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 APP/main.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 HALL/GFD/GFD_program.o
+ .comment       0x00000030       0x31 HALL/LCD/LCD_program.o
+ .comment       0x00000030       0x31 MCAL/ADC/ADC_program.o
+ .comment       0x00000030       0x31 MCAL/DIO/DIO_program.o
+ .comment       0x00000030       0x31 MCAL/EEPROM/EEPROM_program.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x150
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 APP/main.o
+ .debug_aranges
+                0x00000020       0x30 HALL/GFD/GFD_program.o
+ .debug_aranges
+                0x00000050       0x58 HALL/LCD/LCD_program.o
+ .debug_aranges
+                0x000000a8       0x28 MCAL/ADC/ADC_program.o
+ .debug_aranges
+                0x000000d0       0x58 MCAL/DIO/DIO_program.o
+ .debug_aranges
+                0x00000128       0x28 MCAL/EEPROM/EEPROM_program.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2864
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x4e6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_info    0x000004e6       0x7d APP/main.o
+ .debug_info    0x00000563     0x15e3 HALL/GFD/GFD_program.o
+ .debug_info    0x00001b46      0x927 HALL/LCD/LCD_program.o
+ .debug_info    0x0000246d       0xcf MCAL/ADC/ADC_program.o
+ .debug_info    0x0000253c      0x250 MCAL/DIO/DIO_program.o
+ .debug_info    0x0000278c       0xd8 MCAL/EEPROM/EEPROM_program.o
+
+.debug_abbrev   0x00000000      0xa2b
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x4a3 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_abbrev  0x000004a3       0x5d APP/main.o
+ .debug_abbrev  0x00000500      0x1c6 HALL/GFD/GFD_program.o
+ .debug_abbrev  0x000006c6      0x19f HALL/LCD/LCD_program.o
+ .debug_abbrev  0x00000865       0x87 MCAL/ADC/ADC_program.o
+ .debug_abbrev  0x000008ec       0xbf MCAL/DIO/DIO_program.o
+ .debug_abbrev  0x000009ab       0x80 MCAL/EEPROM/EEPROM_program.o
+
+.debug_line     0x00000000     0x12d7
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x116 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_line    0x00000116       0x6d APP/main.o
+ .debug_line    0x00000183      0x7e6 HALL/GFD/GFD_program.o
+ .debug_line    0x00000969      0x44b HALL/LCD/LCD_program.o
+ .debug_line    0x00000db4       0xe7 MCAL/ADC/ADC_program.o
+ .debug_line    0x00000e9b      0x372 MCAL/DIO/DIO_program.o
+ .debug_line    0x0000120d       0xca MCAL/EEPROM/EEPROM_program.o
+
+.debug_frame    0x00000000      0x260
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x24 APP/main.o
+ .debug_frame   0x00000024       0x54 HALL/GFD/GFD_program.o
+ .debug_frame   0x00000078       0xec HALL/LCD/LCD_program.o
+ .debug_frame   0x00000164       0x34 MCAL/ADC/ADC_program.o
+ .debug_frame   0x00000198       0x94 MCAL/DIO/DIO_program.o
+ .debug_frame   0x0000022c       0x34 MCAL/EEPROM/EEPROM_program.o
+
+.debug_str      0x00000000      0x6b5
+ *(.debug_str)
+ .debug_str     0x00000000      0x196 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega32/avr5/crtatmega32.o
+ .debug_str     0x00000196      0x136 APP/main.o
+ .debug_str     0x000002cc      0x208 HALL/GFD/GFD_program.o
+                                0x35f (size before relaxing)
+ .debug_str     0x000004d4       0xf2 HALL/LCD/LCD_program.o
+                                0x2f0 (size before relaxing)
+ .debug_str     0x000005c6       0x32 MCAL/ADC/ADC_program.o
+                                0x1af (size before relaxing)
+ .debug_str     0x000005f8       0x95 MCAL/DIO/DIO_program.o
+                                0x247 (size before relaxing)
+ .debug_str     0x0000068d       0x28 MCAL/EEPROM/EEPROM_program.o
+                                0x1b1 (size before relaxing)
+
+.debug_loc      0x00000000      0xf2e
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x429 HALL/GFD/GFD_program.o
+ .debug_loc     0x00000429      0x6db HALL/LCD/LCD_program.o
+ .debug_loc     0x00000b04       0x21 MCAL/ADC/ADC_program.o
+ .debug_loc     0x00000b25      0x3c7 MCAL/DIO/DIO_program.o
+ .debug_loc     0x00000eec       0x42 MCAL/EEPROM/EEPROM_program.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x158
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x10 APP/main.o
+ .debug_ranges  0x00000010       0x20 HALL/GFD/GFD_program.o
+ .debug_ranges  0x00000030       0xb0 HALL/LCD/LCD_program.o
+ .debug_ranges  0x000000e0       0x18 MCAL/ADC/ADC_program.o
+ .debug_ranges  0x000000f8       0x48 MCAL/DIO/DIO_program.o
+ .debug_ranges  0x00000140       0x18 MCAL/EEPROM/EEPROM_program.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(GFD.elf elf32-avr)
+LOAD linker stubs

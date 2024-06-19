@@ -1,0 +1,1028 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o (exit)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                              ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o (__do_copy_data)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                              ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o (__do_clear_bss)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                              ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o (__ltsf2)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                              ./HALL/LCD/LCD_Prog.o (__divsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o) (__divsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                              ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o (__fixunssfsi)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o) (__fp_cmp)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o) (__fp_inf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o) (__fp_nan)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o) (__fp_pscA)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o) (__fp_pscB)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o) (__fp_round)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o) (__fp_split3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o) (__fp_zero)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(gesf2.o)
+                              ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o (__gtsf2)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                              ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o (__mulsf3)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o) (__mulsf3x)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+                              ./HALL/LCD/LCD_Prog.o (memset)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o)
+                              ./HALL/LCD/LCD_Prog.o (sprintf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o) (vfprintf)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o) (strnlen_P)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o) (strnlen)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(fputc.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o) (fputc)
+/usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o) (__ultoa_invert)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o) (__prologue_saves__)
+/usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                              /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+PassSet             0x9               ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+Pass                0x9               ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+PassCheck           0x9               ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000004000 xr
+data             0x0000000000800060 0x0000000000000400 rw !x
+eeprom           0x0000000000810000 0x0000000000000200 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+LOAD ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+LOAD ./MCAL/UART/UART_Prog.o
+LOAD ./MCAL/TIMER0/TIMER0_prog.o
+LOAD ./MCAL/SPI/SPI_prog.o
+LOAD ./MCAL/INTERRUPT/INTERRUPT_prog.o
+LOAD ./MCAL/DIO/DIO_Prog.o
+LOAD ./MCAL/ADC/ADC_prog.o
+LOAD ./HALL/LCD/LCD_Config.o
+LOAD ./HALL/LCD/LCD_Prog.o
+LOAD ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+LOAD ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+LOAD ./HALL/KEYPAD/KEYPAD_Config.o
+LOAD ./HALL/KEYPAD/KEYPAD_Prog.o
+LOAD ./HALL/INIT/INIT_Prog.o
+LOAD ./HALL/BCD/BCD_Config.o
+LOAD ./HALL/BCD/BCD_Prog.o
+LOAD ./APP/MAIN_Prog.o
+START GROUP
+LOAD /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a
+LOAD /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libatmega16.a
+END GROUP
+                0x0000000000000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000004000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000400]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000200]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x3ec8
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ .init4         0x0000000000000076       0x10 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+                0x0000000000000076                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000086        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000008e        0x4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+                0x000000000000008e                __vector_12
+                0x000000000000008e                __bad_interrupt
+                0x000000000000008e                __vector_6
+                0x000000000000008e                __vector_3
+                0x000000000000008e                __vector_11
+                0x000000000000008e                __vector_13
+                0x000000000000008e                __vector_17
+                0x000000000000008e                __vector_19
+                0x000000000000008e                __vector_7
+                0x000000000000008e                __vector_5
+                0x000000000000008e                __vector_4
+                0x000000000000008e                __vector_9
+                0x000000000000008e                __vector_2
+                0x000000000000008e                __vector_15
+                0x000000000000008e                __vector_8
+                0x000000000000008e                __vector_14
+                0x000000000000008e                __vector_10
+                0x000000000000008e                __vector_16
+                0x000000000000008e                __vector_18
+                0x000000000000008e                __vector_20
+ .text          0x0000000000000092        0x0 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .text          0x0000000000000092        0x0 ./MCAL/UART/UART_Prog.o
+ .text          0x0000000000000092        0x0 ./MCAL/TIMER0/TIMER0_prog.o
+ .text          0x0000000000000092        0x0 ./MCAL/SPI/SPI_prog.o
+ .text          0x0000000000000092        0x0 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .text          0x0000000000000092        0x0 ./MCAL/DIO/DIO_Prog.o
+ .text          0x0000000000000092        0x0 ./MCAL/ADC/ADC_prog.o
+ .text          0x0000000000000092        0x0 ./HALL/LCD/LCD_Config.o
+ .text          0x0000000000000092        0x0 ./HALL/LCD/LCD_Prog.o
+ .text          0x0000000000000092        0x0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+ .text          0x0000000000000092        0x0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+ .text          0x0000000000000092        0x0 ./HALL/KEYPAD/KEYPAD_Config.o
+ .text          0x0000000000000092        0x0 ./HALL/KEYPAD/KEYPAD_Prog.o
+ .text          0x0000000000000092        0x0 ./HALL/INIT/INIT_Prog.o
+ .text          0x0000000000000092        0x0 ./HALL/BCD/BCD_Config.o
+ .text          0x0000000000000092        0x0 ./HALL/BCD/BCD_Prog.o
+ .text          0x0000000000000092        0x0 ./APP/MAIN_Prog.o
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen_P.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(fputc.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text          0x0000000000000092        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                0x0000000000000092                . = ALIGN (0x2)
+ *(.text.*)
+ .text.smartDoorLock_START
+                0x0000000000000092       0xba ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+                0x0000000000000092                smartDoorLock_START
+ .text.smartDoorLock_Three_attempts
+                0x000000000000014c      0x442 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+                0x000000000000014c                smartDoorLock_Three_attempts
+ .text.smartDoorLock_FirstStart
+                0x000000000000058e      0x246 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .text.smartDoorLock_getPass
+                0x00000000000007d4      0x242 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .text.smartDoorLock_checkpass
+                0x0000000000000a16       0x4c ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .text.smartDoorLock_getpass
+                0x0000000000000a62      0x348 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .text.UART_init
+                0x0000000000000daa       0xb4 ./MCAL/UART/UART_Prog.o
+                0x0000000000000daa                UART_init
+ .text.UART_sendData
+                0x0000000000000e5e       0x40 ./MCAL/UART/UART_Prog.o
+                0x0000000000000e5e                UART_sendData
+ .text.UART_receiveData
+                0x0000000000000e9e       0x52 ./MCAL/UART/UART_Prog.o
+                0x0000000000000e9e                UART_receiveData
+ .text.UART_reciveDataBlock
+                0x0000000000000ef0       0x32 ./MCAL/UART/UART_Prog.o
+                0x0000000000000ef0                UART_reciveDataBlock
+ .text.TIMER0_Init
+                0x0000000000000f22       0x34 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000000f22                TIMER0_Init
+ .text.TIMER0_Start
+                0x0000000000000f56       0x22 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000000f56                TIMER0_Start
+ .text.TIMER0_Stop
+                0x0000000000000f78       0x22 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000000f78                TIMER0_Stop
+ .text.TIMER0_writeOVR
+                0x0000000000000f9a       0x20 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000000f9a                TIMER0_writeOVR
+ .text.TIMER0_writeCOM
+                0x0000000000000fba       0x20 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000000fba                TIMER0_writeCOM
+ .text.TIMER0_ovrInterruptEnable
+                0x0000000000000fda       0x34 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000000fda                TIMER0_ovrInterruptEnable
+ .text.TIMER0_ovrInterruptDisable
+                0x000000000000100e       0x22 ./MCAL/TIMER0/TIMER0_prog.o
+                0x000000000000100e                TIMER0_ovrInterruptDisable
+ .text.TIMER0_compInterruptEnable
+                0x0000000000001030       0x34 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000001030                TIMER0_compInterruptEnable
+ .text.TIMER0_comInterruptDisable
+                0x0000000000001064       0x22 ./MCAL/TIMER0/TIMER0_prog.o
+                0x0000000000001064                TIMER0_comInterruptDisable
+ .text.SPI_init
+                0x0000000000001086       0x6a ./MCAL/SPI/SPI_prog.o
+                0x0000000000001086                SPI_init
+ .text.SPI_interruptEnable
+                0x00000000000010f0       0x34 ./MCAL/SPI/SPI_prog.o
+                0x00000000000010f0                SPI_interruptEnable
+ .text.SPI_interruptDisable
+                0x0000000000001124       0x22 ./MCAL/SPI/SPI_prog.o
+                0x0000000000001124                SPI_interruptDisable
+ .text.EXINTER_init
+                0x0000000000001146       0xaa ./MCAL/INTERRUPT/INTERRUPT_prog.o
+                0x0000000000001146                EXINTER_init
+ .text.EXINTER_controlINT0
+                0x00000000000011f0       0xd2 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .text.EXINTER_controlINT1
+                0x00000000000012c2       0xd2 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .text.EXINTER_controlINT2
+                0x0000000000001394       0x64 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .text.DIO_setPinDIR
+                0x00000000000013f8       0xe8 ./MCAL/DIO/DIO_Prog.o
+                0x00000000000013f8                DIO_setPinDIR
+ .text.DIO_setPinVAL
+                0x00000000000014e0      0x150 ./MCAL/DIO/DIO_Prog.o
+                0x00000000000014e0                DIO_setPinVAL
+ .text.DIO_setPINSDIR
+                0x0000000000001630      0x16c ./MCAL/DIO/DIO_Prog.o
+                0x0000000000001630                DIO_setPINSDIR
+ .text.DIO_setPINSVAL
+                0x000000000000179c      0x204 ./MCAL/DIO/DIO_Prog.o
+                0x000000000000179c                DIO_setPINSVAL
+ .text.DIO_getPinVAL
+                0x00000000000019a0       0x54 ./MCAL/DIO/DIO_Prog.o
+                0x00000000000019a0                DIO_getPinVAL
+ .text.DIO_setPortDIR
+                0x00000000000019f4       0x34 ./MCAL/DIO/DIO_Prog.o
+                0x00000000000019f4                DIO_setPortDIR
+ .text.DIO_setPortVAL
+                0x0000000000001a28       0x34 ./MCAL/DIO/DIO_Prog.o
+                0x0000000000001a28                DIO_setPortVAL
+ .text.DIO_getPortVAL
+                0x0000000000001a5c       0x34 ./MCAL/DIO/DIO_Prog.o
+                0x0000000000001a5c                DIO_getPortVAL
+ .text.ADC_init
+                0x0000000000001a90       0x8c ./MCAL/ADC/ADC_prog.o
+                0x0000000000001a90                ADC_init
+ .text.ADC_analogRead
+                0x0000000000001b1c       0xa6 ./MCAL/ADC/ADC_prog.o
+                0x0000000000001b1c                ADC_analogRead
+ .text.ADC_enable
+                0x0000000000001bc2       0x22 ./MCAL/ADC/ADC_prog.o
+                0x0000000000001bc2                ADC_enable
+ .text.ADC_disable
+                0x0000000000001be4       0x22 ./MCAL/ADC/ADC_prog.o
+                0x0000000000001be4                ADC_disable
+ .text.ADC_enableInterrupt
+                0x0000000000001c06       0x34 ./MCAL/ADC/ADC_prog.o
+                0x0000000000001c06                ADC_enableInterrupt
+ .text.ADC_disableInterrupt
+                0x0000000000001c3a       0x22 ./MCAL/ADC/ADC_prog.o
+                0x0000000000001c3a                ADC_disableInterrupt
+ .text.ADC_clearFlag
+                0x0000000000001c5c       0x22 ./MCAL/ADC/ADC_prog.o
+                0x0000000000001c5c                ADC_clearFlag
+ .text.LCD_init
+                0x0000000000001c7e      0x3bc ./HALL/LCD/LCD_Prog.o
+                0x0000000000001c7e                LCD_init
+ .text.LCD_writeCMD
+                0x000000000000203a       0x9c ./HALL/LCD/LCD_Prog.o
+                0x000000000000203a                LCD_writeCMD
+ .text.LCD_writeChar
+                0x00000000000020d6       0x9c ./HALL/LCD/LCD_Prog.o
+                0x00000000000020d6                LCD_writeChar
+ .text.LCD_writeSTR
+                0x0000000000002172       0x6a ./HALL/LCD/LCD_Prog.o
+                0x0000000000002172                LCD_writeSTR
+ .text.LCD_writeNum_u8
+                0x00000000000021dc       0x60 ./HALL/LCD/LCD_Prog.o
+                0x00000000000021dc                LCD_writeNum_u8
+ .text.LCD_writeNum_u16
+                0x000000000000223c       0x5e ./HALL/LCD/LCD_Prog.o
+                0x000000000000223c                LCD_writeNum_u16
+ .text.LCD_writeNum_u32
+                0x000000000000229a       0x6a ./HALL/LCD/LCD_Prog.o
+                0x000000000000229a                LCD_writeNum_u32
+ .text.LCD_writeCharPosition
+                0x0000000000002304       0x68 ./HALL/LCD/LCD_Prog.o
+                0x0000000000002304                LCD_writeCharPosition
+ .text.LCD_writeSTRPosition
+                0x000000000000236c       0x72 ./HALL/LCD/LCD_Prog.o
+                0x000000000000236c                LCD_writeSTRPosition
+ .text.LCD_writeNum_u8Position
+                0x00000000000023de       0x72 ./HALL/LCD/LCD_Prog.o
+                0x00000000000023de                LCD_writeNum_u8Position
+ .text.LCD_writeNum_u16Position
+                0x0000000000002450       0x72 ./HALL/LCD/LCD_Prog.o
+                0x0000000000002450                LCD_writeNum_u16Position
+ .text.LCD_writeNum_u32Position
+                0x00000000000024c2       0x72 ./HALL/LCD/LCD_Prog.o
+                0x00000000000024c2                LCD_writeNum_u32Position
+ .text.LCD_GoTo
+                0x0000000000002534       0x50 ./HALL/LCD/LCD_Prog.o
+                0x0000000000002534                LCD_GoTo
+ .text.LCD_getData
+                0x0000000000002584       0x76 ./HALL/LCD/LCD_Prog.o
+ .text.LCD_enableSignal
+                0x00000000000025fa      0x222 ./HALL/LCD/LCD_Prog.o
+ .text.LCD_setCursorPosition
+                0x000000000000281c       0xc6 ./HALL/LCD/LCD_Prog.o
+ .text.LCD_convertNum_u8
+                0x00000000000028e2       0x62 ./HALL/LCD/LCD_Prog.o
+ .text.LCD_convertNum_u16
+                0x0000000000002944       0x62 ./HALL/LCD/LCD_Prog.o
+ .text.LCD_convertNum_u32
+                0x00000000000029a6       0x78 ./HALL/LCD/LCD_Prog.o
+ .text.DCMOTOR_init
+                0x0000000000002a1e       0x6c ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                0x0000000000002a1e                DCMOTOR_init
+ .text.DCMOTOR_motorForward
+                0x0000000000002a8a       0x44 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                0x0000000000002a8a                DCMOTOR_motorForward
+ .text.DCMOTOR_motorReverse
+                0x0000000000002ace       0x44 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                0x0000000000002ace                DCMOTOR_motorReverse
+ .text.DCMOTOR_motorRight
+                0x0000000000002b12       0x44 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                0x0000000000002b12                DCMOTOR_motorRight
+ .text.DCMOTOR_motorLeft
+                0x0000000000002b56       0x44 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                0x0000000000002b56                DCMOTOR_motorLeft
+ .text.DCMOTOR_motorStop
+                0x0000000000002b9a       0x44 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                0x0000000000002b9a                DCMOTOR_motorStop
+ .text.KEYPAD_init
+                0x0000000000002bde       0xc0 ./HALL/KEYPAD/KEYPAD_Prog.o
+                0x0000000000002bde                KEYPAD_init
+ .text.KEYPAD_getData
+                0x0000000000002c9e      0x208 ./HALL/KEYPAD/KEYPAD_Prog.o
+                0x0000000000002c9e                KEYPAD_getData
+ .text.__vector_1
+                0x0000000000002ea6      0x174 ./HALL/INIT/INIT_Prog.o
+                0x0000000000002ea6                __vector_1
+ .text.setUp    0x000000000000301a       0x72 ./HALL/INIT/INIT_Prog.o
+                0x000000000000301a                setUp
+ .text.Loop     0x000000000000308c      0x402 ./HALL/INIT/INIT_Prog.o
+                0x000000000000308c                Loop
+ .text.BCD_init
+                0x000000000000348e       0x60 ./HALL/BCD/BCD_Prog.o
+                0x000000000000348e                BCD_init
+ .text.BCD_displayEN
+                0x00000000000034ee       0x32 ./HALL/BCD/BCD_Prog.o
+                0x00000000000034ee                BCD_displayEN
+ .text.BCD_displayDIS
+                0x0000000000003520       0x32 ./HALL/BCD/BCD_Prog.o
+                0x0000000000003520                BCD_displayDIS
+ .text.BCD_displayNum
+                0x0000000000003552       0x88 ./HALL/BCD/BCD_Prog.o
+                0x0000000000003552                BCD_displayNum
+ .text.main     0x00000000000035da       0x12 ./APP/MAIN_Prog.o
+                0x00000000000035da                main
+ .text.libgcc.mul
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000000035ec        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .text.avr-libc.fplib
+                0x00000000000035ec        0xa /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+                0x00000000000035ec                __lesf2
+                0x00000000000035ec                __nesf2
+                0x00000000000035ec                __eqsf2
+                0x00000000000035ec                __cmpsf2
+                0x00000000000035ec                __ltsf2
+ .text.avr-libc.fplib
+                0x00000000000035f6        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+                0x00000000000035f6                __divsf3
+ .text.avr-libc.fplib
+                0x00000000000035fe       0xdc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+                0x000000000000361e                __divsf3x
+                0x0000000000003624                __divsf3_pse
+ .text.avr-libc.fplib
+                0x00000000000036da       0x5e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+                0x00000000000036da                __fixunssfsi
+ .text.avr-libc.fplib
+                0x0000000000003738       0x48 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+                0x0000000000003738                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000000000003780        0xc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+                0x0000000000003780                __fp_inf
+ .text.avr-libc.fplib
+                0x000000000000378c        0x6 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+                0x000000000000378c                __fp_nan
+ .text.avr-libc.fplib
+                0x0000000000003792        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+                0x0000000000003792                __fp_pscA
+ .text.avr-libc.fplib
+                0x00000000000037a0        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+                0x00000000000037a0                __fp_pscB
+ .text.avr-libc.fplib
+                0x00000000000037ae       0x22 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+                0x00000000000037ae                __fp_round
+ .text.avr-libc.fplib
+                0x00000000000037d0       0x44 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+                0x00000000000037d0                __fp_split3
+                0x00000000000037e0                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000003814        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+                0x0000000000003814                __fp_zero
+                0x0000000000003816                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000003822        0xa /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(gesf2.o)
+                0x0000000000003822                __gtsf2
+                0x0000000000003822                __gesf2
+ .text.avr-libc.fplib
+                0x000000000000382c        0x8 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+                0x000000000000382c                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000003834       0xd2 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+                0x0000000000003852                __mulsf3x
+                0x0000000000003858                __mulsf3_pse
+ .text.avr-libc
+                0x0000000000003906        0xe /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+                0x0000000000003906                memset
+ .text.avr-libc
+                0x0000000000003914       0x46 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o)
+                0x0000000000003914                sprintf
+ .text.avr-libc
+                0x000000000000395a      0x3b4 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+                0x000000000000395a                vfprintf
+ .text.avr-libc
+                0x0000000000003d0e       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen_P.o)
+                0x0000000000003d0e                strnlen_P
+ .text.avr-libc
+                0x0000000000003d24       0x16 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen.o)
+                0x0000000000003d24                strnlen
+ .text.avr-libc
+                0x0000000000003d3a       0x60 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(fputc.o)
+                0x0000000000003d3a                fputc
+ .text.avr-libc
+                0x0000000000003d9a       0xbc /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+                0x0000000000003d9a                __ultoa_invert
+ .text.libgcc.mul
+                0x0000000000003e56        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000003e56        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000003e56        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.prologue
+                0x0000000000003e56       0x38 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+                0x0000000000003e56                __prologue_saves__
+ .text.libgcc.builtins
+                0x0000000000003e8e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000003e8e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000003e8e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000003e8e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000003e8e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000003e8e        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.prologue
+                0x0000000000003e8e       0x36 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                0x0000000000003e8e                __epilogue_restores__
+ .text.libgcc.builtins
+                0x0000000000003ec4        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000003ec4        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000003ec4        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+                0x0000000000003ec4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000003ec4        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+                0x0000000000003ec4                exit
+                0x0000000000003ec4                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000003ec4        0x4 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000003ec8                _etext = .
+
+.data           0x0000000000800060      0x110 load address 0x0000000000003ec8
+                0x0000000000800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+ .data          0x0000000000800060        0x0 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .data          0x0000000000800060        0x0 ./MCAL/UART/UART_Prog.o
+ .data          0x0000000000800060        0x0 ./MCAL/TIMER0/TIMER0_prog.o
+ .data          0x0000000000800060        0x0 ./MCAL/SPI/SPI_prog.o
+ .data          0x0000000000800060        0x0 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .data          0x0000000000800060        0x0 ./MCAL/DIO/DIO_Prog.o
+ .data          0x0000000000800060        0x0 ./MCAL/ADC/ADC_prog.o
+ .data          0x0000000000800060        0x0 ./HALL/LCD/LCD_Config.o
+ .data          0x0000000000800060        0x0 ./HALL/LCD/LCD_Prog.o
+ .data          0x0000000000800060        0x0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+ .data          0x0000000000800060        0x0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+ .data          0x0000000000800060        0x0 ./HALL/KEYPAD/KEYPAD_Config.o
+ .data          0x0000000000800060        0x0 ./HALL/KEYPAD/KEYPAD_Prog.o
+ .data          0x0000000000800060        0x0 ./HALL/INIT/INIT_Prog.o
+ .data          0x0000000000800060        0x0 ./HALL/BCD/BCD_Config.o
+ .data          0x0000000000800060        0x0 ./HALL/BCD/BCD_Prog.o
+ .data          0x0000000000800060        0x0 ./APP/MAIN_Prog.o
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen_P.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(fputc.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .data          0x0000000000800060        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ *(.data*)
+ .data.lcd_style
+                0x0000000000800060       0x14 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+                0x0000000000800060                lcd_style
+ .data.ARR_DDR  0x0000000000800074       0x16 ./MCAL/DIO/DIO_Prog.o
+                0x0000000000800074                ARR_DDR
+ .data.ARR_PORT
+                0x000000000080008a       0x16 ./MCAL/DIO/DIO_Prog.o
+                0x000000000080008a                ARR_PORT
+ .data.ARR_PIN  0x00000000008000a0       0x16 ./MCAL/DIO/DIO_Prog.o
+                0x00000000008000a0                ARR_PIN
+ .data.LCD      0x00000000008000b6        0x6 ./HALL/LCD/LCD_Config.o
+                0x00000000008000b6                LCD
+ .data.MOTOR1   0x00000000008000bc        0x2 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+                0x00000000008000bc                MOTOR1
+ .data.MOTOR2   0x00000000008000be        0x2 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+                0x00000000008000be                MOTOR2
+ .data.PATTIRN_KEYPAD
+                0x00000000008000c0       0x10 ./HALL/KEYPAD/KEYPAD_Config.o
+                0x00000000008000c0                PATTIRN_KEYPAD
+ .data.KEYPAD   0x00000000008000d0        0x8 ./HALL/KEYPAD/KEYPAD_Config.o
+                0x00000000008000d0                KEYPAD
+ .data._7_SEGMENT
+                0x00000000008000d8        0x5 ./HALL/BCD/BCD_Config.o
+                0x00000000008000d8                _7_SEGMENT
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00000000008000dd       0x7a ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .rodata        0x0000000000800157        0x3 ./HALL/LCD/LCD_Prog.o
+ .rodata        0x000000000080015a       0x15 ./HALL/INIT/INIT_Prog.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800170                . = ALIGN (0x2)
+ *fill*         0x000000000080016f        0x1 
+                0x0000000000800170                _edata = .
+                0x0000000000800170                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800170       0x1c
+                0x0000000000800170                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+ .bss           0x0000000000800170        0x0 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .bss           0x0000000000800170        0x0 ./MCAL/UART/UART_Prog.o
+ .bss           0x0000000000800170        0x0 ./MCAL/TIMER0/TIMER0_prog.o
+ .bss           0x0000000000800170        0x0 ./MCAL/SPI/SPI_prog.o
+ .bss           0x0000000000800170        0x0 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .bss           0x0000000000800170        0x0 ./MCAL/DIO/DIO_Prog.o
+ .bss           0x0000000000800170        0x0 ./MCAL/ADC/ADC_prog.o
+ .bss           0x0000000000800170        0x0 ./HALL/LCD/LCD_Config.o
+ .bss           0x0000000000800170        0x0 ./HALL/LCD/LCD_Prog.o
+ .bss           0x0000000000800170        0x0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+ .bss           0x0000000000800170        0x0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+ .bss           0x0000000000800170        0x0 ./HALL/KEYPAD/KEYPAD_Config.o
+ .bss           0x0000000000800170        0x0 ./HALL/KEYPAD/KEYPAD_Prog.o
+ .bss           0x0000000000800170        0x0 ./HALL/INIT/INIT_Prog.o
+ .bss           0x0000000000800170        0x0 ./HALL/BCD/BCD_Config.o
+ .bss           0x0000000000800170        0x0 ./HALL/BCD/BCD_Prog.o
+ .bss           0x0000000000800170        0x0 ./APP/MAIN_Prog.o
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(cmpsf2.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(divsf3x.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fixunssfsi.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_cmp.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_inf.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_nan.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscA.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_pscB.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_round.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_split3.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(fp_zero.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(gesf2.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libm.a(mulsf3x.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(memset.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen_P.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(strnlen.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(fputc.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(ultoa_invert.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_prologue.o)
+ .bss           0x0000000000800170        0x0 /usr/lib/gcc/avr/7.3.0/avr5/libgcc.a(_epilogue.o)
+ *(.bss*)
+ .bss.KeyVal    0x0000000000800170        0x1 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+                0x0000000000800170                KeyVal
+ *(COMMON)
+ COMMON         0x0000000000800171       0x1b ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+                0x0000000000800171                PassSet
+                0x000000000080017a                Pass
+                0x0000000000800183                PassCheck
+                0x000000000080018c                PROVIDE (__bss_end, .)
+                0x0000000000003ec8                __data_load_start = LOADADDR (.data)
+                0x0000000000003fd8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x000000000080018c        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x000000000080018c                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab           0x0000000000000000     0xab54
+ *(.stab)
+ .stab          0x0000000000000000     0x1644 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+ .stab          0x0000000000001644      0x960 ./MCAL/UART/UART_Prog.o
+                                        0xbc4 (size before relaxing)
+ .stab          0x0000000000001fa4      0x978 ./MCAL/TIMER0/TIMER0_prog.o
+                                        0xbdc (size before relaxing)
+ .stab          0x000000000000291c      0x858 ./MCAL/SPI/SPI_prog.o
+                                        0xabc (size before relaxing)
+ .stab          0x0000000000003174      0xae0 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+                                        0xd44 (size before relaxing)
+ .stab          0x0000000000003c54      0xb70 ./MCAL/DIO/DIO_Prog.o
+                                        0xdd4 (size before relaxing)
+ .stab          0x00000000000047c4      0x9c0 ./MCAL/ADC/ADC_prog.o
+                                        0xc24 (size before relaxing)
+ .stab          0x0000000000005184      0x81c ./HALL/LCD/LCD_Config.o
+                                        0xa80 (size before relaxing)
+ .stab          0x00000000000059a0     0x1038 ./HALL/LCD/LCD_Prog.o
+                                       0x16b0 (size before relaxing)
+ .stab          0x00000000000069d8      0x7b0 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+                                        0xa14 (size before relaxing)
+ .stab          0x0000000000007188      0x6d8 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+                                        0xce4 (size before relaxing)
+ .stab          0x0000000000007860      0x7b0 ./HALL/KEYPAD/KEYPAD_Config.o
+                                        0xa14 (size before relaxing)
+ .stab          0x0000000000008010      0x708 ./HALL/KEYPAD/KEYPAD_Prog.o
+                                        0xd14 (size before relaxing)
+ .stab          0x0000000000008718      0xdb0 ./HALL/INIT/INIT_Prog.o
+                                       0x1014 (size before relaxing)
+ .stab          0x00000000000094c8      0x7a4 ./HALL/BCD/BCD_Config.o
+                                        0xa08 (size before relaxing)
+ .stab          0x0000000000009c6c      0x594 ./HALL/BCD/BCD_Prog.o
+                                        0xba0 (size before relaxing)
+ .stab          0x000000000000a200      0x954 ./APP/MAIN_Prog.o
+                                        0xbb8 (size before relaxing)
+
+.stabstr        0x0000000000000000     0xa457
+ *(.stabstr)
+ .stabstr       0x0000000000000000     0xa457 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 ./PROJECTS/SMART_LOCK_DOOR/SMART_LOCK_DOOR_prog.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000011       0x12 ./MCAL/UART/UART_Prog.o
+ .comment       0x0000000000000011       0x12 ./MCAL/TIMER0/TIMER0_prog.o
+ .comment       0x0000000000000011       0x12 ./MCAL/SPI/SPI_prog.o
+ .comment       0x0000000000000011       0x12 ./MCAL/INTERRUPT/INTERRUPT_prog.o
+ .comment       0x0000000000000011       0x12 ./MCAL/DIO/DIO_Prog.o
+ .comment       0x0000000000000011       0x12 ./MCAL/ADC/ADC_prog.o
+ .comment       0x0000000000000011       0x12 ./HALL/LCD/LCD_Config.o
+ .comment       0x0000000000000011       0x12 ./HALL/LCD/LCD_Prog.o
+ .comment       0x0000000000000011       0x12 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_config.o
+ .comment       0x0000000000000011       0x12 ./HALL/L298_DC_MOTOR/L298_DC_MOTOR_prog.o
+ .comment       0x0000000000000011       0x12 ./HALL/KEYPAD/KEYPAD_Config.o
+ .comment       0x0000000000000011       0x12 ./HALL/KEYPAD/KEYPAD_Prog.o
+ .comment       0x0000000000000011       0x12 ./HALL/INIT/INIT_Prog.o
+ .comment       0x0000000000000011       0x12 ./HALL/BCD/BCD_Config.o
+ .comment       0x0000000000000011       0x12 ./HALL/BCD/BCD_Prog.o
+ .comment       0x0000000000000011       0x12 ./APP/MAIN_Prog.o
+ .comment       0x0000000000000011       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(sprintf.o)
+ .comment       0x0000000000000011       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(vfprintf_std.o)
+ .comment       0x0000000000000011       0x12 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/libc.a(fputc.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x52e
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x52e /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+
+.debug_abbrev   0x0000000000000000      0x4e7
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4e7 /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+
+.debug_line     0x0000000000000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1af
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x1af /usr/lib/gcc/avr/7.3.0/../../../avr/lib/avr5/crtatmega16.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(ATMEGA32.elf elf32-avr)
+LOAD linker stubs

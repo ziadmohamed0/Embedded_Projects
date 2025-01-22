@@ -1,71 +1,93 @@
-Here's an updated README for your GitHub repository, including the additional projects:
-
----
-
 # Embedded Projects
 
-This repository contains a collection of embedded systems projects that I have worked on. The projects involve various microcontrollers, such as AVR and ESP8266, and cover a wide range of applications, from assistive technology to home automation.
+Welcome to the **Embedded Projects** repository! This repository showcases a collection of projects designed and implemented in the field of embedded systems. Each project demonstrates practical applications of microcontrollers, sensors, and communication protocols to solve real-world problems.
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Projects](#projects)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Overview
+
+This repository contains a variety of embedded systems projects that focus on hardware-software integration. Each project includes its source code, schematics, and documentation to help users understand and replicate the designs.
 
 ## Projects
 
-### 1. **Glove for Deaf (AVR)**
-- **Microcontroller**: AVR
-- **Description**: A glove designed to help the deaf community by converting sign language gestures into text or speech.
+1. **Robot Eye Project**
+   - Microcontroller: ESP8266
+   - Features: Simulates robotic eye movements using an OLED LCD display.
 
-### 2. **Smart Lock Door System (AVR)**
-- **Microcontroller**: AVR
-- **Description**: A smart lock system for doors, using embedded systems to control access based on various inputs like RFID, PIN, or biometric data.
+2. **Smart Lock Door System**
+   - Microcontroller: AVR
+   - Features: Password-protected smart lock with secure access control.
 
-### 3. **Cozmo Robot Eyes (ESP8266)**
-- **Microcontroller**: ESP8266
-- **Display**: OLED LCD
-- **Description**: A robotic eye project with the Cozmo robot's design using ESP8266 and an OLED LCD. It demonstrates robotic motion and display features.
+3. **Glove for the Deaf**
+   - Microcontroller: AVR
+   - Features: Converts sign language gestures into text or speech.
 
-### 4. **Stopwatch Project (AVR)**
-- **Microcontroller**: AVR
-- **Description**: A simple stopwatch system designed with AVR, showcasing time tracking and control features.
+4. **Cozmo Robot Eyes**
+   - Microcontroller: ESP8266
+   - Features: Emulates animated robot eyes using an OLED LCD display.
 
-### 5. **Smart Home (AVR)**
-- **Microcontroller**: AVR
-- **Description**: A smart home automation system using AVR to control devices such as lights, fans, and security systems based on sensor data.
+5. **Stopwatch Project**
+   - Microcontroller: AVR
+   - Features: A basic digital stopwatch with timing functionalities.
+
+6. **Smart Home System**
+   - Microcontroller: AVR
+   - Features: Controls home appliances using sensors and actuators.
+
+## Technologies Used
+
+- Microcontrollers: AVR, ESP8266
+- Communication Protocols: UART, I2C
+- Sensors: Ultrasonic, IR
+- Actuators: Servo motors, DC motors
+- Displays: OLED LCD
 
 ## Getting Started
 
-To get started with any of the projects in this repository, follow these steps:
+To replicate or build on these projects, follow these steps:
 
-### Prerequisites
+1. Clone the repository:
 
-- **Arduino IDE** (or any compatible IDE for embedded development).
-- **AVR Board** (or **ESP8266 Board** for relevant projects) installed in Arduino IDE.
-
-### Installation
-
-1. **Clone the repository**:
    ```bash
    git clone https://github.com/ziadmohamed0/Embedded_Projects.git
    ```
 
-2. **Install necessary libraries**:
-   - For the AVR projects: Install the required AVR libraries and drivers.
-   - For the ESP8266 projects: Install the ESP8266 board support in Arduino IDE.
-   - For OLED LCD (Cozmo project): Install `Adafruit_SSD1306` and `Adafruit_GFX` libraries.
+2. Navigate to the desired project folder.
 
-3. **Upload the code** to your microcontroller using the IDE.
+3. Follow the documentation provided within each project folder for setup and usage instructions.
 
-4. **Connect your components** as per the wiring diagram provided in each project folder.
+## Contributing
 
-## Project Structure
+Contributions are welcome! If you have improvements or new project ideas, please follow these steps:
 
-- **/glove-for-deaf**: Code and documentation for the glove for the deaf project.
-- **/smart-lock**: Code and documentation for the smart lock door system project.
-- **/cozmo-eyes**: Code and documentation for the Cozmo robot eyes project with ESP8266.
-- **/stopwatch**: Code and documentation for the stopwatch project.
-- **/smart-home**: Code and documentation for the smart home system.
+1. Fork the repository.
+2. Create a new branch:
+
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+3. Commit your changes:
+
+   ```bash
+   git commit -m "Add your feature"
+   ```
+
+4. Push to your branch:
+
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+5. Open a pull request.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to make further adjustments!
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

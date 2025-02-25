@@ -1,0 +1,56 @@
+Constrained Instances: 'Arm 2-1', 'Arm 2-1', 'Servo Micro-1', 'Servo Micro-1'
+Constraint Name: Width1
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Arm 2-1', 'Arm 2-1', 'Servo Micro-1', 'Servo Micro-1'
+Constraint Name: Width2
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Arm 3-1', 'Servo Motor Micro  9g_r1-1'
+Constraint Name: Coincident37
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Arm 3-1', 'Servo Motor Micro  9g_r1-1'
+Constraint Name: Parallel14
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Arm 3-1', 'Arm 3-1', 'Servo Motor Micro  9g_r1-1', 'Servo Motor Micro  9g_r1-1'
+Constraint Name: Width3
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Arm 3-1', 'Servo Motor Micro  9g_r1-1'
+Constraint Name: Coincident47
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Arm 3-1', 'Base-1'
+Constraint Name: Parallel18
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Servo Motor Micro  9g_r1-1', 'Base-1'
+Constraint Name: Concentric15
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Servo Motor Micro  9g_r1-1', 'Microservo horn-3'
+Constraint Name: Concentric16
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Base-1', 'Microservo horn-3'
+Constraint Name: Concentric18
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Base-1', 'Microservo horn-3'
+Constraint Name: Coincident59
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Base-1', 'Servo Micro-2'
+Constraint Name: Concentric19
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Base-1', 'Servo Micro-2'
+Constraint Name: Parallel25
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------
+Constrained Instances: 'Base-1', 'Servo Micro-2'
+Constraint Name: Coincident63
+Error Details: Constrained components are not resolved. Resolve components and try again. The constraint has been ignored.
+---------------------------------------------------------------------------------

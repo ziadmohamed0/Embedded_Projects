@@ -1,0 +1,13 @@
+../Core/Src/main.c:98:6:PCA9685_SetBit	2
+../Core/Src/main.c:110:6:PCA9685_SetPWMFrequency	1
+../Core/Src/main.c:119:6:PCA9685_Init	1
+../Core/Src/main.c:125:6:PCA9685_SetPWM	1
+../Core/Src/main.c:132:6:PCA9685_SetServoAngle	3
+../Core/Src/main.c:140:6:MPU6050_Init	2
+../Core/Src/main.c:157:6:MPU6050_Read_Accel	1
+../Core/Src/main.c:170:6:MPU6050_Read_Gyro	1
+../Core/Src/main.c:183:5:main	1
+../Core/Src/main.c:217:6:SystemClock_Config	3
+../Core/Src/main.c:254:13:MX_I2C1_Init	2
+../Core/Src/main.c:288:13:MX_GPIO_Init	1
+../Core/Src/main.c:310:6:Error_Handler	1

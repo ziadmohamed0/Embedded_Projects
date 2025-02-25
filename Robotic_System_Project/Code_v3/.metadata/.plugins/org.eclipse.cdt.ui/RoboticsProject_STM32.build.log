@@ -1,0 +1,19 @@
+00:35:31 **** Incremental Build of configuration Debug for project RoboticsProject_STM32 ****
+make -j4 all 
+arm-none-eabi-gcc -o "RoboticsProject_STM32.elf" @"objects.list"   -mcpu=cortex-m3 -T"E:\Projects\RoboticProjects\Code_v3\RoboticsProject_STM32\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="RoboticsProject_STM32.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: RoboticsProject_STM32.elf
+ 
+arm-none-eabi-size  RoboticsProject_STM32.elf 
+arm-none-eabi-objdump -h -S RoboticsProject_STM32.elf  > "RoboticsProject_STM32.list"
+arm-none-eabi-objcopy  -O ihex RoboticsProject_STM32.elf  "RoboticsProject_STM32.hex"
+   text	   data	    bss	    dec	    hex	filename
+  16252	    112	   1984	  18348	   47ac	RoboticsProject_STM32.elf
+Finished building: default.size.stdout
+ 
+Finished building: RoboticsProject_STM32.list
+ 
+Finished building: RoboticsProject_STM32.hex
+ 
+
+00:35:34 Build Finished. 0 errors, 0 warnings. (took 2s.150ms)
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1706736225 source:g:\my drive\embedd system course_amit\c programing\exams\project_c\project\main.c
+	"SDB.h"
+	<stdio.h>
+
+1706736317 g:\my drive\embedd system course_amit\c programing\exams\project_c\project\sdb.h
+	"STD.h"
+
+1706736317 g:\my drive\embedd system course_amit\c programing\exams\project_c\project\std.h
+
+1706736225 source:g:\my drive\embedd system course_amit\c programing\exams\project_c\project\sdb.c
+	"SDB.h"
+	<stdio.h>
+
+1707005326 source:g:\my drive\embedd system course_amit\c programing\exams\project_c\project1_c\main.c
+	"SDB.h"
+	<stdio.h>
+
+1706736317 g:\my drive\embedd system course_amit\c programing\exams\project_c\project1_c\sdb.h
+	"STD.h"
+
+1706736317 g:\my drive\embedd system course_amit\c programing\exams\project_c\project1_c\std.h
+
+1707005326 source:g:\my drive\embedd system course_amit\c programing\exams\project_c\project1_c\sdb.c
+	"SDB.h"
+	<stdio.h>
+

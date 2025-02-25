@@ -1,0 +1,50 @@
+---------------------------------------------------------------------------------	
+	Enter card holder name: Ziad mohammed Fathi Mo
+	Enter card expiry date: 12/23
+	Enter card PAN: 1234567890123456789
+	Enter transaction date: 22/08/2022
+	Enter transaction amount: 900.0
+	Enter max amount: 10000
+	PASSED
+	transaction is saved sucessfully
+
+---------------------------------------------------------------------------------
+
+	Enter card holder name: Ziad mohammed Fathi Mo
+	Enter card expiry date: 12/23
+	Enter card PAN: 1234567890123456789
+	Enter transaction date: 22/08/2022
+	Enter transaction amount: 5000
+	Enter max amount: 4000
+	FAILED: EXCEED_MAX_AMOUNT
+
+---------------------------------------------------------------------------------
+
+	Enter card holder name: Ziad mohammed Fathi Mo
+	Enter card expiry date: 12/23
+	Enter card PAN: 1234567890123456789
+	Enter transaction date: 22/08/2022
+	Enter transaction amount: 2000
+	Enter max amount: 4000
+	FAILED: LOW_BALANCE
+	FAILED: transaction failed
+
+---------------------------------------------------------------------------------
+
+	Enter card holder name: Ziad mohammed Fathi Mo
+	Enter card expiry date: 12/21
+	Enter card PAN: 1234567890123456789
+	Enter transaction date: 22/08/2022
+	FAILED: EXPIRED_CARD
+
+---------------------------------------------------------------------------------
+
+	Enter card holder name: Ziad mohammed Fathi Mo
+	Enter card expiry date: 12/23
+	Enter card PAN: 999999999999999999
+	Enter transaction date: 22/08/2022
+	Enter transaction amount: 900.0
+	Enter max amount: 10000
+	FAILED: Account is not valid
+	FAILED: transaction failed
+---------------------------------------------------------------------------------	

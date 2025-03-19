@@ -1,0 +1,1 @@
+/usr/bin/cc -L/snap/webots/27/usr/share/webots/lib/controller -lController CMakeFiles/BMS_Project.dir/BMS/bmc.c.o CMakeFiles/BMS_Project.dir/App/main.c.o -o BMS_Project 

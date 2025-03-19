@@ -1,0 +1,3 @@
+/home/ziad/Ziad_WS/Embedded_Projects/Cpp_C_projects/BatteryManagementSystems/build/CMakeFiles/BMS_Project.dir
+/home/ziad/Ziad_WS/Embedded_Projects/Cpp_C_projects/BatteryManagementSystems/build/CMakeFiles/edit_cache.dir
+/home/ziad/Ziad_WS/Embedded_Projects/Cpp_C_projects/BatteryManagementSystems/build/CMakeFiles/rebuild_cache.dir

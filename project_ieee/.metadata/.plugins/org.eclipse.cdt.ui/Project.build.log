@@ -1,0 +1,59 @@
+11:12:51 **** Incremental Build of configuration Debug for project Project ****
+make all 
+Building file: ../Hal/ULTRA_SONIC/ULTRA_SONIC.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"Hal/ULTRA_SONIC/ULTRA_SONIC.d" -MT"Hal/ULTRA_SONIC/ULTRA_SONIC.o" -c -o "Hal/ULTRA_SONIC/ULTRA_SONIC.o" "../Hal/ULTRA_SONIC/ULTRA_SONIC.c"
+In file included from ../Hal/ULTRA_SONIC/../../Mcal/GPIO/../../Lib/Std_Types.h:16:0,
+                 from ../Hal/ULTRA_SONIC/../../Mcal/GPIO/ GPIO_reg.h:12,
+                 from ../Hal/ULTRA_SONIC/../../Mcal/GPIO/GPIO_init.h:12,
+                 from ../Hal/ULTRA_SONIC/../../Mcal/Mcal_dfs.h:11,
+                 from ../Hal/ULTRA_SONIC/ULTRA_SONIC.h:11,
+                 from ../Hal/ULTRA_SONIC/ULTRA_SONIC.c:7:
+/usr/lib/avr/include/util/delay.h:112:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed" [-Wcpp]
+ # warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+   ^
+Finished building: ../Hal/ULTRA_SONIC/ULTRA_SONIC.c
+ 
+Building file: ../App/main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega16 -DF_CPU=1000000UL -MMD -MP -MF"App/main.d" -MT"App/main.o" -c -o "App/main.o" "../App/main.c"
+In file included from ../App/../Hal/LCD/../../Mcal/GPIO/../../Lib/Std_Types.h:16:0,
+                 from ../App/../Hal/LCD/../../Mcal/GPIO/ GPIO_reg.h:12,
+                 from ../App/../Hal/LCD/../../Mcal/GPIO/GPIO_init.h:12,
+                 from ../App/../Hal/LCD/../../Mcal/Mcal_dfs.h:11,
+                 from ../App/../Hal/LCD/LCD_init.h:12,
+                 from ../App/../Hal/Hal_dfs.h:11,
+                 from ../App/main.h:12,
+                 from ../App/main.c:8:
+/usr/lib/avr/include/util/delay.h:112:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed" [-Wcpp]
+ # warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+   ^
+Finished building: ../App/main.c
+ 
+Building target: Project.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,Project.map -mmcu=atmega16 -o "Project.elf" ./Mcal/USART/USART_prog.o  ./Mcal/Timer2/Timer2_prog.o  ./Mcal/Timer1/Timer1_prog.o  ./Mcal/Timer0/Timer0_prog.o  ./Mcal/Interrupt/Interrupt_external_prog.o  ./Mcal/GPIO/GPIO_prog.o  ./Mcal/ADC/ADC_prog.o  ./Hal/ULTRA_SONIC/ULTRA_SONIC.o  ./Hal/LCD/LCD_prog.o  ./Hal/DC_MOTOR/DC_MOTOR.o  ./Hal/BUZZ/BUZZ.o  ./Hal/BTN/BTN.o  ./App/main.o   
+Finished building target: Project.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S Project.elf  >"Project.lss"
+Finished building: Project.lss
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega16 Project.elf
+AVR Memory Usage
+----------------
+Device: atmega16
+
+Program:   10264 bytes (62.6% Full)
+(.text + .data + .bootloader)
+
+Data:         29 bytes (2.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+
+11:12:51 Build Finished. 0 errors, 2 warnings. (took 175ms)
+

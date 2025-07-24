@@ -1,0 +1,18 @@
+/*
+ * DC_MOTOR.c
+ *
+ *  Created on: Jul 9, 2025
+ *      Author: ziad
+ */
+
+#include "DC_MOTOR.h"
+
+void DcMotor_Init(void) {
+	GPIO_vSetPinDirection(DcMotorIN1_port, DcMotorIN1_pin, Pin_Output);
+	GPIO_vSetPinDirection(DcMotorIN2_port, DcMotorIN2_pin, Pin_Output);
+	GPIO_vSetPinDirection(DcMotorEN_port, DcMotorEN_pin, Pin_Output);
+}
+
+void DcMotor_Rotate(DcMotor_State state,uint8 speed) {
+
+}

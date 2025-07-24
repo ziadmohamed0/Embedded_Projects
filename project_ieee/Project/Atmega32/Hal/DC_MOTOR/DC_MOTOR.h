@@ -1,0 +1,30 @@
+/*
+ * DC_MOTOR.h
+ *
+ *  Created on: Jul 9, 2025
+ *      Author: ziad
+ */
+
+#ifndef HAL_DC_MOTOR_DC_MOTOR_H_
+#define HAL_DC_MOTOR_DC_MOTOR_H_
+
+#include "../../Mcal/Mcal_dfs.h"
+
+#define DcMotorIN1_pin		Pin_0
+#define DcMotorIN1_port		Port_D
+#define DcMotorIN2_pin		Pin_1
+#define DcMotorIN2_port		Port_D
+#define DcMotorEN_pin		Pin_3
+#define DcMotorEN_port		Port_B
+
+typedef enum {
+	forward,
+	reverse,
+	stop
+}DcMotor_State;
+
+void DcMotor_Init(void);
+void DcMotor_Rotate(DcMotor_State state,uint8 speed);
+
+
+#endif /* HAL_DC_MOTOR_DC_MOTOR_H_ */

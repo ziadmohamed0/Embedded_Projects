@@ -1,0 +1,78 @@
+/*
+ * Timer0_prog.c
+ *
+ *  Created on: Jan 7, 2025
+ *      Author: s
+ */
+
+#include "Timer0_init.h"
+
+
+void TIMER0_vidInit(void){
+#if TIMER_MODE_WAVE == NORMAL_MODE
+	CLR_BIT(TCCR0,WGM00);
+	CLR_BIT(TCCR0,WGM01);
+#elif TIMER_MODE_WAVE == PWM_MODE
+	SET_BIT(TCCR0,WGM00);
+	CLR_BIT(TCCR0,WGM01);
+	TCCR0 |= TIMER_COMP_OUTPUT_MODE;
+#elif TIMER_MODE_WAVE == CTC_MODE
+	CLR_BIT(TCCR0,WGM00);
+	SET_BIT(TCCR0,WGM01);
+	TCCR0 |= TIMER_COMP_OUTPUT_MODE;
+#elif TIMER_MODE_WAVE == FAST_PWM_MODE
+	SET_BIT(TCCR0,WGM00);
+	SET_BIT(TCCR0,WGM01);
+	TCCR0 |= TIMER_COMP_OUTPUT_MODE;
+#endif
+}
+
+void PWM_Timer0_Start(uint8 duty_cycle) {
+    // 1. Set OC0 (PB3) as output
+    GPIO_vSetPinDirection(Port_B, Pin_3, Pin_Output);
+
+    // 2. Initialize Timer0 in PWM Mode with Non-Inverting
+    TIMER0_vidInit();
+
+    // 3. Set OCR0 based on required duty cycle (0-100%)
+    uint8 ocr_value = (duty_cycle * 255UL) / 100;
+    TIMER0_vidWriteCOMPOCR0(ocr_value);
+
+    // 4. Start Timer0 with prescaler F_CPU/8
+    TIMER0_vidStart();
+}
+
+
+void TIMER0_vidStart(void){
+	TCCR0 |= TIMER_SELECT_ENABLE;
+}
+
+void TIMER0_vidStop(void){
+	TCCR0 &= TIMER0_CLOCK_STOP;
+}
+
+void TIMER0_vidWriteOVRTCNT0(uint8 Copy_Start_Value){
+	TCNT0 = Copy_Start_Value;
+}
+
+void TIMER0_vidWriteCOMPOCR0(uint8 Copy_Start_Value){
+	OCR0 = Copy_Start_Value;
+}
+
+void TIMER0_vidOVRInterruptEnable(void){
+	SET_BIT(SREG,GIE);
+	SET_BIT(TIMSK,TOIE0);
+}
+
+void TIMER0_vidOVRInterruptDisable(void){
+	CLR_BIT(TIMSK,TOIE0);
+}
+
+void TIMER0_vidCOMPInterruptEnable(void){
+	SET_BIT(SREG,GIE);
+	SET_BIT(TIMSK,OCIE0);
+}
+
+void TIMER0_vidCOMPInterruptDisable(void){
+	CLR_BIT(TIMSK,OCIE0);
+}

@@ -1,0 +1,68 @@
+/*
+ * main.c
+ *
+ *  Created on: Dec 6, 2024
+ *      Author: s
+ */
+
+#include "main.h"
+
+volatile uint8_t speed = 0;
+volatile uint16_t distance = 0;
+volatile uint8 acc_enabled = 1;
+volatile uint8 motor_speed = 0;
+int main (void) {
+	Ultrasonic_init();
+	TIMER0_vidInit();
+	EX_Interrupt_init(EX_INT0, EX_Rising_Edge);
+	ADC_vidInit();
+	Buzzer_init();
+	DcMotor_Init();
+	LCD_vidInit();
+	LCD_vidWriteStr("speed:");
+	LCD_vidGoto(2, 0);
+	LCD_vidWriteStr("distance:");
+
+	while(1) {
+		speed = (ADC_u16ReadDigitalVal(ADC_CHANNEL1) * 100) / 1023;
+		distance = Ultrasonic_readDistance();
+		LCD_vidGoto(1, 9);
+		LCD_vidWriteInt(speed);
+		LCD_vidGoto(1, 13);
+		LCD_vidWriteStr("km/h");
+		LCD_vidGoto(2, 10);
+		LCD_vidWriteInt(distance);
+		LCD_vidGoto(2, 13);
+		LCD_vidWriteStr("cm	");
+		if(acc_enabled) {
+			if(distance > 20) {
+				DcMotor_Rotate(stop, 0);
+				Buzzer_ON();
+			}
+			else if (distance < 50) {
+				motor_speed = speed * 0.2;
+				DcMotor_Rotate(forward, motor_speed);
+				Buzzer_OFF();
+			}
+			else if (distance < 100) {
+				motor_speed = speed * 0.5;
+
+				Buzzer_OFF();
+			}
+			else {
+				motor_speed = speed;
+				Buzzer_OFF();
+			}
+		}
+		else {
+			motor_speed = speed;
+			Buzzer_OFF();
+		}
+
+	}
+	return 0;
+}
+
+ISR(INT0_vec) {
+	acc_enabled ^= 1;
+}

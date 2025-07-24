@@ -1,0 +1,13 @@
+/*
+ * BUZZ.c
+ *
+ *  Created on: Jul 9, 2025
+ *      Author: ziad
+ */
+
+#include "BUZZ.h"
+#include "../../Mcal/Mcal_dfs.h"
+
+void Buzzer_init();
+void Buzzer_ON();
+void Buzzer_OFF();

@@ -1,0 +1,13 @@
+/*
+ * DC_MOTOR.h
+ *
+ *  Created on: Jul 9, 2025
+ *      Author: ziad
+ */
+
+#ifndef HAL_DC_MOTOR_DC_MOTOR_H_
+#define HAL_DC_MOTOR_DC_MOTOR_H_
+
+#include "../../Mcal/Mcal_dfs.h"
+
+#endif /* HAL_DC_MOTOR_DC_MOTOR_H_ */

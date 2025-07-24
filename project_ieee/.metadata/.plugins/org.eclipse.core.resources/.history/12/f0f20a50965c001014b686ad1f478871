@@ -1,0 +1,20 @@
+/*
+ * BUZZ.c
+ *
+ *  Created on: Jul 9, 2025
+ *      Author: ziad
+ */
+
+#include "BUZZ.h"
+
+void Buzzer_init() {
+	GPIO_vSetPinDirection(Port_B, Pin_5, Pin_Output);
+}
+
+void Buzzer_ON() {
+	GPIO_vSetPinValue(Port_B, Pin_5, Pin_High);
+}
+
+void Buzzer_OFF() {
+	GPIO_vSetPinValue(Port_B, Pin_5, Pin_High);
+}

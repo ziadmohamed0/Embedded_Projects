@@ -1,0 +1,69 @@
+/*
+ * Timer0_cfg.h
+ *
+ *  Created on: Jan 7, 2025
+ *      Author: s
+ */
+
+#ifndef MCAL_TIMER0_TIMER0_CFG_H_
+#define MCAL_TIMER0_TIMER0_CFG_H_
+
+/* -------------------- Include Start -------------------- */
+#include "Timer0_reg.h"
+/* -------------------- Include End  -------------------- */
+
+/* -------------------- Macro Start -------------------- */
+/******Timer Waveform Generation Mode******/
+/*
+ * -NORMAL_MODE   -PWM_MODE (Phase Correct)   -CTC_MODE    -FAST_PWM_MODE
+ * */
+
+/***** TIMER MODE *****/
+#define NORMAL_MODE    0U
+#define PWM_MODE       1U
+#define CTC_MODE       2U
+#define FAST_PWM_MODE  3U
+
+#define TIMER_MODE_WAVE       PWM_MODE
+
+#define TIMER0_CLOCK_STOP     (uint8)0xF8//
+
+/***** Clock Select ENABLE TIMER*****/
+
+
+/*---TIMER SELSET FACTOR---*/
+#define TIMER_FACTOR_NO                    (uint8)0x00    // 0U      //CLOCK STOPED No_Clock_Source
+#define TIMER_FACTOR_1                     (uint8)0x01    // 1U
+#define TIMER_FACTOR_8                     (uint8)0x02    // 2U
+#define TIMER_FACTOR_64                    (uint8)0x03    // 3U
+#define TIMER_FACTOR_256                   (uint8)0x04    // 4U
+#define TIMER_FACTOR_1024                  (uint8)0x05    // 5U
+#define TIMER_FACTOR_EXT_FALLING_PIN_T0    (uint8)0x06    // 6U   //using Counter with S.W
+#define TIMER_FACTOR_EXT_RISING_PIN_T0     (uint8)0x07    // 7U   //using Counter with S.W
+
+#define TIMER_SELECT_ENABLE         TIMER_FACTOR_8
+
+/*---Compare Output Mode USED In PWM Mode---*/
+/******- START_CLEAR_COMP - TOGGLE_CTC_MODE - START_SET_COMP - NURMAL_MODE_OUTPUT******/
+
+/*---Compare Output Mode USED In PWM Mode---*/
+
+#define Timer0_NURMAL_MODE_OUTPUT       (( 0 << COM01) | (0 << COM00))         //(0U << COM00)
+#define Timer0_TOGGLE_CTC_MODE          (( 0 << COM01) | (1 << COM00))
+#define Timer0_START_CLEAR_COMP         (( 1 << COM01) | (0 << COM00))        //(2U << COM00)
+#define Timer0_START_SET_COMP           (( 1 << COM01) | (1 << COM00))         //(3U << COM00)
+
+
+#define TIMER_COMP_OUTPUT_MODE   Timer0_START_CLEAR_COMP
+/* -------------------- Macro End  -------------------- */
+
+/* -------------------- Functions Macro Start -------------------- */
+/* -------------------- Functions Macro End -------------------- */
+
+/* -------------------- Standard Types Start -------------------- */
+/* -------------------- Standard Types End -------------------- */
+
+/* -------------------- API Start -------------------- */
+/* -------------------- API End -------------------- */
+
+#endif /* MCAL_TIMER0_TIMER0_CFG_H_ */
